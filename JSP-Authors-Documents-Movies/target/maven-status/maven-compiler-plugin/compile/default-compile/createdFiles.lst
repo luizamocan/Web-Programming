@@ -1,0 +1,11 @@
+model\Author.class
+controller\LoginServlet.class
+controller\AddDocumentServlet.class
+model\Document.class
+util\DBUtil.class
+dao\AuthorDAO.class
+dao\MovieDAO.class
+service\AuthorService.class
+controller\DeleteMovieServlet.class
+dao\DocumentDAO.class
+model\Movie.class
