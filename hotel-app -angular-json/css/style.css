@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+h2 {
+     text-align: center; }
+
+h3 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+nav {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+
+.filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.filters input, .filters select {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+
+#rooms {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.room-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 150px;
+}
+
+
+button {
+    padding: 10px 20px;
+    background: white;
+    border: 1px solid black;
+    color: black;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #eee;
+}
+
+
+.pagination-wrapper {
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.pagination-wrapper button {
+    padding: 15px 40px;
+    font-weight: bold;
+}
+
+
+.admin-editor {
+    max-width: 900px;
+    margin: 0 auto 30px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.list-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
