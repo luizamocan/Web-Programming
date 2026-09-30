@@ -1,0 +1,12 @@
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\dao\DBConnection.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\dao\TaskDAO.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\dao\TaskLogDAO.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\dao\UserDAO.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\model\Task.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\model\TaskLog.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\model\User.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\servlet\BoardServlet.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\servlet\LoginServlet.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\servlet\LogoutServlet.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\servlet\MoveTaskServlet.java
+C:\Users\Mocan Luiza\WEB\JSP-User-Task-TaskLog\src\main\java\com\task\servlet\TaskEventsServlet.java

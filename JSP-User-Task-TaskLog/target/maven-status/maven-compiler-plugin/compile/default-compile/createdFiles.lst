@@ -1,0 +1,13 @@
+com\task\model\TaskLog.class
+com\task\dao\DBConnection.class
+com\task\model\Task.class
+com\task\model\User.class
+com\task\servlet\BoardServlet.class
+com\task\servlet\TaskEventsServlet$1.class
+com\task\servlet\TaskEventsServlet.class
+com\task\dao\TaskDAO.class
+com\task\servlet\LoginServlet.class
+com\task\servlet\MoveTaskServlet.class
+com\task\dao\UserDAO.class
+com\task\dao\TaskLogDAO.class
+com\task\servlet\LogoutServlet.class
